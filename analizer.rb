@@ -1,4 +1,4 @@
-coding: utf-8
+# coding: utf-8
 
 # Script for analize statistics of text file:
 # total count lines
@@ -8,6 +8,9 @@ coding: utf-8
 # count paragraphs (split 2 empty lines)
 # average values
 
+#-----------------------#
+#        main code      #
+#-----------------------#
 
 # const FILE_NAME - analized file name
 FILE_NAME = 'readline.rb'
